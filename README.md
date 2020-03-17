@@ -1,6 +1,6 @@
 # Project Title
 
-Add Picture 
+![](./cornfield.jpg)
 
 Tag badges if available. 
 
@@ -40,29 +40,9 @@ End with an example of getting some data out of the system or using it for a lit
 
 Explain how to run the automated tests for this system
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Dropwizard]() - The web framework used
 
 ## Contributing
 
@@ -70,13 +50,13 @@ Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details about  the process 
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](https://semver.org) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags)<!-- @IGNORE PREVIOUS: link -->.
 
 ## Authors
 
 * **Chuck Smith** -  [Eclectic Coding](https://github.com/eclectic-coding)
 
-See also the list of [contributors](https://github.com/eclectic-coding/this-repo/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/eclectic-coding/fullstack-agriculture-game/contributors) who participated in this project.
 
 ## License
 

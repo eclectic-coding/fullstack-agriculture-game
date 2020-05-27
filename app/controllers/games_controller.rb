@@ -11,10 +11,14 @@ class GamesController < ApplicationController
     render json: @game
   end
 
+  def create
+    @game = Game.new(params)
+  end
+
   private
 
   def game_params
-    params.require(:game).permit(:title, :choice1, :choice2, :choice3)
+    params.require(:game).permit(:question, :choice1, :choice2, :choice3, :education)
   end
 
   def find_game
